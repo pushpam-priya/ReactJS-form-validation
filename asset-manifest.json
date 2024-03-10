@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pushpam-priya/ReactJS-form-validation.git/static/css/main.9c138a25.css",
+    "main.js": "/pushpam-priya/ReactJS-form-validation.git/static/js/main.fbef112f.js",
+    "static/js/453.7678c54e.chunk.js": "/pushpam-priya/ReactJS-form-validation.git/static/js/453.7678c54e.chunk.js",
+    "index.html": "/pushpam-priya/ReactJS-form-validation.git/index.html",
+    "main.9c138a25.css.map": "/pushpam-priya/ReactJS-form-validation.git/static/css/main.9c138a25.css.map",
+    "main.fbef112f.js.map": "/pushpam-priya/ReactJS-form-validation.git/static/js/main.fbef112f.js.map",
+    "453.7678c54e.chunk.js.map": "/pushpam-priya/ReactJS-form-validation.git/static/js/453.7678c54e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c138a25.css",
+    "static/js/main.fbef112f.js"
+  ]
+}
